@@ -1,5 +1,5 @@
 # Hi, I’m Evgeny Andronov
-## 👀 I’m Python backend developer
+## I’m Python backend developer
 My tech stack:
 - Python, Django, Django Rest Framework, SQLite, PostgresSQL, pytest
 - Docker, CI/CD, Rest API, Nginx
