@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Syberflea
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me: here, just leave a message
+# Hi, I’m Evgeny Andronov
+## 👀 I’m Python backend developer
+My tech stack:
+- Python, Django, Django Rest Framework, SQLite, PostgresSQL, pytest
+- Docker, CI/CD, Rest API, Nginx
+
+  
+
 
 <!---
 syberflea/syberflea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
